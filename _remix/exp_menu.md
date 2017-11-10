@@ -1,7 +1,7 @@
 ---
 layout: expendable_menu
 title: expendable_menu
-author: Pantelis Rodis
+author: rodispantelis
 header: no
 categories:
   - models
