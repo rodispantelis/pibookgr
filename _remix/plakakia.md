@@ -1,7 +1,7 @@
 ---
 layout: Plakakia
 title: Plakakia
-author: Pantelis Rodis
+author: rodispantelis
 header: no
 categories:
   - models
